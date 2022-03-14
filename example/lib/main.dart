@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_syntax_view/flutter_syntax_view.dart';
 import 'package:flutter_tagging/flutter_tagging.dart';
+import 'package:flutter_typeahead/flutter_typeahead.dart';
 
 void main() => runApp(MyApp());
 
